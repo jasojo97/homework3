@@ -1,0 +1,33 @@
+.box1{
+    border: 5px solid green ;
+    text-align: left;
+    align-items: left;
+    justify-content: left;
+    border-width: medium;  
+}
+
+#firstOrg
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 25vh;
+}
+
+#secondOrg
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 40vh;
+}
+.box2{
+    border: 5px solid green;
+}
+
+.box3
+{
+  text-align: center;
+}
